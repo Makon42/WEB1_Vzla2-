@@ -1,0 +1,13 @@
+header div nav {
+    background-color: rgb(7, 139, 106);
+    border: 3px solid rgb(7, 120, 100);
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+    background-image: image();
+}
+[flag="venezuela"]{
+   margin-top: 2.75px; 
+}
+

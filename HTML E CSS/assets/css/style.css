@@ -1,0 +1,196 @@
+body {
+    font-family: "Oswald", Arial, sans-serif;
+    margin: none;
+    padding: 0;
+    background-image: url(Pixel\ Art\ Waterfall\ 01.jpg);
+}
+
+
+
+.inline-center{
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+
+
+}
+#fondo{
+    width: 100%;
+    height: 10%;
+    background-color: #00000091;
+}
+header {
+    font-family: Arial, sans-serif;
+    color: #f1c9d0;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+
+.div_header-h1{
+    display: inline;
+    margin: auto;
+    
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #acdaac;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    transition: .80s;
+    color:hsl(from white 10 300% 100%);
+    box-shadow: 5px px black;
+}
+
+.div_header_nav_ul_li-img{
+    height: 20px;
+
+}
+.div_header_nav-ul {
+    font-family: "Oswald";
+}
+
+.div_header_nav-ul li{
+    font-size: x-large;
+    line-height: 0;
+    padding: 0%;
+    margin: 0% 30px;
+}
+.section {
+    padding: 20px;
+    margin: 10px;
+    margin: auto;
+    background: rgb(2,0,36);
+background: linear-gradient(30deg, rgba(244, 247, 246, 0.397) 30%, rgba(164, 224, 204, 0.933) 70%, rgb(191, 243, 236) 30%);
+}
+.section_div_div-img {
+    margin-bottom: 20px;
+    display: inline-block;
+    box-shadow: 1px 1px 1px 5px #35424a56;
+    border-radius: 30px;
+
+}
+.section_div-div--img {
+    float: right;
+    width: 49.5%;
+}
+.section_div-div--inf {
+    /*text-align: justify;*/
+    border: 2px #94a39d solid;
+    margin-right: 2px;
+    display: inline-block;
+    width: 45%;
+    font-size: 17px;
+    box-shadow:0px 15px 15px 0px #35424a46;
+    border-radius: 10px;
+  
+    
+}
+.section_div-div--inf:hover{
+    
+    background-color: #bcf3e169;
+    transition: .75s;
+    
+    
+
+}
+
+.section_div-div--inf p{
+    margin-left: 10px;
+    line-height: 2;
+}
+.section_div-div--inf h2 {
+    margin-left: 10px;
+    line-height: 1;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #0a3f3cde;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    margin: auto;
+}
+.footer_ul-li{
+    list-style-type: none;
+    /*display: inline;*/
+    margin: auto;
+
+}
+.footer_ul-li a {
+    color: #ffffff;
+    width: 50px;
+    height: 50px;
+    margin: 0px 20px;
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+.footer-p{
+    margin: 10px 0;
+}
+section p {
+    display:inline;
+    width: 500px;
+
+}
+section {
+    text-align: center;
+    border: 3px #255c45 solid;
+    width: 75%;
+    display: inline-flex;
+    margin: auto;
+    position: relative;
+    left: 12.5%;
+    right: auto;
+    box-shadow: 5px 20px #35424a6e;
+    border-radius: 20px;
+}
+
+div {
+    margin: none;
+}
+.header_h1_img {
+    width: 50px;
+}
+
+/*explorar*/
+
+#map{
+    border-radius: 100px;
+}
+#map h2 {
+    background-color: #255c458c;
+    display: inline;
+    padding-bottom: 10px 20px;
+    border-radius: 10px;
+}
+#map h3 {
+    background-color: #acdaac;
+    border-radius: 10%;
+    
+}
+
+/*belezas*/
+
+.section_div-div--inf img{
+    margin :10px 0 10px 20px;
+    border-radius: 20px;
+    height: 22%;
+    box-shadow: 3px 3px 3px 5px#255c456b;
+}
+#divgaleria {
+    border: none;
+}
